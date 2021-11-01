@@ -1,17 +1,22 @@
-# Laporan Mini Project
-Pemrograman Mobile
-"Aplikasi Bacaan Shalat Berbasis Android"
+##  Laporan Mini Project
+
+## Pemrograman Mobile
+
+## "Aplikasi Bacaan Shalat Berbasis Android"
 
 ![polinema](img/logo.png)
 
-Oleh Kelompok BARAKALLAH :
-Fathin Naufaliya (2041723015)
-Muhammad Tyone Nur Satria (2041723006)
-Thalia Amira Rifda (2041723005)
+  Oleh Kelompok BARAKALLAH :
 
-Politeknik Negeri Malang
-Jurusan D4 Teknik Informatika
-November 2021
+  Fathin Naufaliya (2041723015)
+
+  Muhammad Tyone Nur Satria (2041723006)
+
+  Thalia Amira Rifda (2041723005)
+
+### Politeknik Negeri Malang
+### Jurusan D4 Teknik Informatika
+### November 2021
 
 1. HALAMAN UTAMA
 
